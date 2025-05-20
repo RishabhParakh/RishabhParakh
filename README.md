@@ -2,7 +2,6 @@
 <h3 align="center">Analyst skilled in SQL with a strong grasp of both software development and data engineering (ETL). I enjoy bridging tech and business to solve real-world problems with practical, data-driven solutions.
  Do have a look at my projects below! 👇</h3>
 
-- 📫 How to reach me **parakhrishabh123@gmail.com**
 
 
 
