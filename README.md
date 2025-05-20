@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Parakh</h1>
-<h3 align="center"> Data professional skilled in SQL with a strong grasp of both software development and data engineering (ETL). I enjoy bridging tech and business to solve real-world problems with practical, data-driven solutions.
+<h3 align="center"> I’m a data professional with strong skills in SQL and data analytics, focused on turning raw data into clear, actionable insights. My work bridges business needs and technical solutions whether that’s through building analytics workflows, streamlining data pipelines, or supporting decision-making with well-structured reports. Alongside analytics, I also bring working knowledge of software development, data science, and data engineering to support end-to-end solutions.
  Do have a look at my projects below! 👇</h3>
 
 <p align="center" style="font-size: 0.8em; color: gray;">
