@@ -2,13 +2,9 @@
 <h3 align="center"> Data professional skilled in SQL with a strong grasp of both software development and data engineering (ETL). I enjoy bridging tech and business to solve real-world problems with practical, data-driven solutions.
  Do have a look at my projects below! 👇</h3>
 
-
-<h3 align="center"> Data professional skilled in SQL with a strong grasp of both software development and data engineering (ETL). I enjoy bridging tech and business to solve real-world problems with practical, data-driven solutions.
- Do have a look at my projects below! 👇</h3>
-
 <p align="center" style="font-size: 0.8em; color: gray;">
   <em>
-    Note: All showcased projects are recreations inspired by real-world systems I contributed to during past roles. Due to NDA restrictions, self-curated or publicly available datasets have been used to simulate the original business context and functionality.
+    Note: All showcased projects are recreations of real-world projects/systems I contributed to during past roles. Due to NDA restrictions, self-curated or publicly available datasets have been used to simulate the original business context and functionality.
   </em>
 </p>
 
