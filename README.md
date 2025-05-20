@@ -4,7 +4,7 @@
 
 <p align="center" style="font-size: 0.8em; color: gray;">
   <em>
-    Note: All showcased projects are recreations of real-world projects/systems I contributed to during past roles. Due to NDA restrictions, self-curated or publicly available datasets have been used to simulate the original business context and functionality.
+    Note: All showcased projects are recreations of real-world projects/systems I contributed. Due to NDA restrictions, self-curated or publicly available datasets have been used to simulate the original business context and functionality.
   </em>
 </p>
 
