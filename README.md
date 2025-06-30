@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Parakh</h1>
-<h3 align="center"> I'm a data professional skilled in SQL and data analytics, focused on delivering clear, actionable insights.
-I work across the data lifecycle building reports, automating workflows, and supporting business decisions.
-Along with analytics,I have hands-on experience in data engineering, software development, and data science.
- Do have a look at my projects below! 👇</h3>
+<h3 align="center"> I'm a backend-focused software engineer with expertise in Python, OOP, and system design.
+I build scalable, data-driven applications, automate workflows, and deliver reliable software that powers business decisions. 👇</h3>
 
 <p align="center" style="font-size: 0.8em; color: gray;">
   <em>
