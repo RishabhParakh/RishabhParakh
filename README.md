@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Parakh</h1>
-<h3 align="center"> I'm a backend-focused software engineer with expertise in Python, OOP, and system design.
+<h3 align="center"> I'm a software engineer with expertise in Python, OOP, and system design.
 I build scalable, data-driven applications, automate workflows, and deliver reliable software that powers business decisions. 👇</h3>
 
 <p align="center" style="font-size: 0.8em; color: gray;">
